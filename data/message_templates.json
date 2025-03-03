@@ -1,0 +1,20 @@
+{
+  "promotional_template": {
+    "name": "promotion_notification",
+    "components": [
+      {
+        "type": "body",
+        "parameters": [
+          {
+            "type": "text",
+            "text": "Special offer"
+          },
+          {
+            "type": "text",
+            "text": "50% off"
+          }
+        ]
+      }
+    ]
+  }
+} 
